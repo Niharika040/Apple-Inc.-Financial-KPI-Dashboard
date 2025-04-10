@@ -85,3 +85,17 @@ This project performs a detailed financial analysis of **Apple Inc.** using real
 ## 🎯 Business Recommendation
 
 > Based on this financial analysis, Apple Inc. is a financially stable and strategically sound company. Its profitability, liquidity, and efficient asset management make it a strong candidate for long-term investment or strategic partnership.
+
+---
+## ▶️ How to Run
+
+```bash
+# Clone this repository
+git clone https://github.com/Niharika040/apple-financial-dashboard.git
+cd apple-financial-dashboard
+
+# Install dependencies
+pip install pandas matplotlib seaborn yfinance
+
+# Open and run the notebook
+jupyter notebook apple_financial_analysis.ipynb

@@ -1,4 +1,4 @@
-# Apple-Inc.-Financial-KPI-Dashboard
+# Apple Inc. Financial KPI Analysis and Visualization using Python
 
 This project performs a detailed financial analysis of **Apple Inc.** using real-time financial statement data pulled from **Yahoo Finance** via the `yfinance` Python library. The focus is on calculating **key financial KPIs** and visualizing Apple’s performance trends using Python.
 

@@ -63,18 +63,6 @@ This project performs a detailed financial analysis of **Apple Inc.** using real
 ---
 
 
-## ▶️ How to Run
-
-```bash
-# Clone this repository
-git clone https://github.com/Niharika040/apple-financial-dashboard.git
-cd apple-financial-dashboard
-
-# Install dependencies
-pip install pandas matplotlib seaborn yfinance
-
-# Open and run the notebook
-jupyter notebook apple_financial_analysis.ipynb
 
 ## 📌 Key Insights / Conclusion
 

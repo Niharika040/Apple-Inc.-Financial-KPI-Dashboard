@@ -84,8 +84,7 @@ Free Cash Flow = Operating Cash Flow - Capital Expenditures
 
 ```bash
 # Clone this repository
-git clone https://github.com/Niharika040/apple-financial-dashboard.git
-cd apple-financial-dashboard
+git clone https://github.com/Niharika040/Apple-Inc.-Financial-KPI-Dashboard/tree/main
 
 # Install dependencies
 pip install pandas matplotlib seaborn yfinance

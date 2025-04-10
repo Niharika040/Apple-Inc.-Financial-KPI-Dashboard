@@ -32,9 +32,7 @@ This project performs a detailed financial analysis of **Apple Inc.** using real
 ## 💼 Key Performance Indicators (KPIs)
 
 ### 📈 Net Profit Margin (%)
-\[
-\text{Net Profit Margin} = \left(\frac{\text{Net Income}}{\text{Total Revenue}}\right) \times 100
-\]
+Net Profit Margin = Net Income\Total Revenue \times 100
 
 ### 📊 Debt-to-Asset Ratio
 \[
@@ -83,8 +81,7 @@ This project performs a detailed financial analysis of **Apple Inc.** using real
 ---
 
 ## 🎯 Business Recommendation
-
-> Based on this financial analysis, Apple Inc. is a financially stable and strategically sound company. Its profitability, liquidity, and efficient asset management make it a strong candidate for long-term investment or strategic partnership.
+ Based on this financial analysis, Apple Inc. is a financially stable and strategically sound company. Its profitability, liquidity, and efficient asset management make it a strong candidate for long-term investment or strategic partnership.
 
 ---
 ## ▶️ How to Run

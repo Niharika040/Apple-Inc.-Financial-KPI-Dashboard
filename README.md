@@ -35,14 +35,10 @@ This project performs a detailed financial analysis of **Apple Inc.** using real
 Net Profit Margin = Net Income\Total Revenue \times 100
 
 ### 📊 Debt-to-Asset Ratio
-\[
-\text{Debt to Asset Ratio} = \frac{\text{Total Liabilities}}{\text{Total Assets}}
-\]
+Debt to Asset Ratio = Total Liabilities\Total Assets
 
 ### 💵 Free Cash Flow
-\[
-\text{Free Cash Flow} = \text{Operating Cash Flow} - \text{Capital Expenditures}
-\]
+Free Cash Flow = Operating Cash Flow - Capital Expenditures
 
 ---
 
